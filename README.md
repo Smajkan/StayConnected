@@ -49,4 +49,3 @@ Copyright © 2021 [Aldin Smajkan](https://github.com/Smajkan).<br />
 This project is [MIT](LICENSE.md) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
