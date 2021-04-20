@@ -11,7 +11,7 @@
 
 > Simple realtime chat application
 
-### 🏠 [Homepage](github.com/Smajkan/StayConnected)
+### 🏠 [Homepage](https://github.com/Smajkan/StayConnected)
 
 ### ✨ [Demo](https://stayconnected.smajki.repl.co/)
 
